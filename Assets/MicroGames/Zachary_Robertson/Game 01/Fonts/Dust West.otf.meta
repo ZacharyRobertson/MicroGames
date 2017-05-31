@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7fa55feecdb2924bab5eaa70071a83e
+timeCreated: 1494992165
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dust West
+  fontNames:
+  - Dust West
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
